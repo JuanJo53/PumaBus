@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013751211110",
+    "firebase_url": "https://pumakataribuses.firebaseio.com",
+    "project_id": "pumakataribuses",
+    "storage_bucket": "pumakataribuses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013751211110:android:56467dbc71e66d23",
+        "android_client_info": {
+          "package_name": "com.puma.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013751211110-oep5spvr5l0f9vie9v6qd0ps6hff32u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puma.flutter_app",
+            "certificate_hash": "d22c58e632d7da73689c5743319ae70dba1e74e2"
+          }
+        },
+        {
+          "client_id": "1013751211110-oq6t4474npjv17lthdf95eijs601uo18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXGj_jx5CSi42IsWswDR_eAT-7Ov-mB5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013751211110-oq6t4474npjv17lthdf95eijs601uo18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
